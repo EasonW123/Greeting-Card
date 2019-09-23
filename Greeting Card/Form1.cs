@@ -54,52 +54,52 @@ namespace Greeting_Card
             g.Clear(Color.Black);
             Shootingstar1.Play();
             g.FillEllipse(drawBrush, 300, 0, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 295, 10, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 290, 15, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 280, 25, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 270, 35, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 260, 45, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
 
             // second shooting star
             Shootingstar.Play();
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 285, 0, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 275, 10, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 265, 20, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 255, 30, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 245, 40, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
 
             // third star
             Shootingstar1.Play();
@@ -107,47 +107,47 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 345, 0, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 335, 10, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 325, 20, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 315, 30, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 305, 40, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 295, 50, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 285, 60, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 275, 70, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
 
             // fourth star
             Shootingstar.Play();
@@ -156,61 +156,61 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 395, 10, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 385, 20, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 375, 30, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 365, 40, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 355, 50, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 345, 60, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 335, 70, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 325, 80, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 315, 85, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
 
             // fifth star
             Shootingstar1.Play();
@@ -220,21 +220,21 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 165, 10, 5, 5);
             g.FillEllipse(drawBrush, 315, 85, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 155, 20, 5, 5);
             g.FillEllipse(drawBrush, 315, 85, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 145, 30, 5, 5);
             g.FillEllipse(drawBrush, 315, 85, 5, 5);
@@ -247,35 +247,35 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 125, 50, 5, 5);
             g.FillEllipse(drawBrush, 315, 85, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 115, 60, 5, 5);
             g.FillEllipse(drawBrush, 315, 85, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 105, 70, 5, 5);
             g.FillEllipse(drawBrush, 315, 85, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
             g.FillEllipse(drawBrush, 315, 85, 5, 5);
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
 
             //6th star
             Shootingstar.Play();
@@ -286,7 +286,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 535, 10, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -294,7 +294,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 525, 20, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -302,7 +302,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 515, 30, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -310,7 +310,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 505, 40, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -318,7 +318,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 495, 50, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -326,7 +326,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 485, 60, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -334,7 +334,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 475, 70, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -342,7 +342,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 465, 80, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -350,7 +350,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 455, 90, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -358,7 +358,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 445, 100, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -366,7 +366,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 435, 110, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -374,7 +374,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 425, 120, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -382,7 +382,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 415, 130, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -390,7 +390,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 405, 140, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -398,7 +398,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 395, 150, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -406,7 +406,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 385, 160, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -414,7 +414,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 375, 170, 5, 5);
             g.FillEllipse(drawBrush, 95, 80, 5, 5);
@@ -422,7 +422,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
 
             //7th star
             Shootingstar1.Play();
@@ -434,7 +434,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 235, 10, 5, 5);
             g.FillEllipse(drawBrush, 375, 170, 5, 5);
@@ -443,7 +443,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 225, 20, 5, 5);
             g.FillEllipse(drawBrush, 375, 170, 5, 5);
@@ -452,7 +452,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 215, 30, 5, 5);
             g.FillEllipse(drawBrush, 375, 170, 5, 5);
@@ -461,7 +461,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 205, 40, 5, 5);
             g.FillEllipse(drawBrush, 375, 170, 5, 5);
@@ -470,7 +470,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 195, 50, 5, 5);
             g.FillEllipse(drawBrush, 375, 170, 5, 5);
@@ -479,7 +479,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 185, 60, 5, 5);
             g.FillEllipse(drawBrush, 375, 170, 5, 5);
@@ -488,7 +488,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 175, 70, 5, 5);
             g.FillEllipse(drawBrush, 375, 170, 5, 5);
@@ -497,7 +497,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 165, 80, 5, 5);
             g.FillEllipse(drawBrush, 375, 170, 5, 5);
@@ -506,7 +506,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 155, 90, 5, 5);
             g.FillEllipse(drawBrush, 375, 170, 5, 5);
@@ -515,7 +515,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 145, 100, 5, 5);
             g.FillEllipse(drawBrush, 375, 170, 5, 5);
@@ -524,7 +524,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
             g.FillEllipse(drawBrush, 375, 170, 5, 5);
@@ -533,7 +533,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
 
             //8th star
             Shootingstar.Play();
@@ -546,7 +546,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 445, 10, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -556,7 +556,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 435, 20, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -566,7 +566,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 425, 30, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -576,7 +576,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 415, 40, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -586,7 +586,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 405, 50, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -596,7 +596,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 395, 60, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -606,7 +606,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 385, 70, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -616,7 +616,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 375, 80, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -626,7 +626,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 365, 90, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -636,7 +636,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 355, 100, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -646,7 +646,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 345, 110, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -656,7 +656,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 335, 120, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -666,7 +666,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 325, 130, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -676,7 +676,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 315, 140, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -686,7 +686,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 305, 150, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -696,7 +696,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 295, 160, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -706,7 +706,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
             g.FillEllipse(drawBrush, 135, 110, 5, 5);
@@ -716,7 +716,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
 
             //9th star
             Shootingstar1.Play();
@@ -730,7 +730,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 295, 10, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -741,7 +741,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 285, 20, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -752,7 +752,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 275, 30, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -763,7 +763,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 265, 40, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -774,7 +774,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 255, 50, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -785,7 +785,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 245, 60, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -796,7 +796,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 235, 70, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -807,7 +807,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 225, 80, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -818,7 +818,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 215, 90, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -829,7 +829,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 205, 100, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -840,7 +840,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 195, 110, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -851,7 +851,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 185, 120, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -862,7 +862,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 175, 130, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -873,7 +873,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 165, 140, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -884,7 +884,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 155, 150, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -895,7 +895,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 145, 160, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -906,7 +906,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
             g.FillEllipse(drawBrush, 285, 170, 5, 5);
@@ -917,7 +917,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
 
             //10th star
             Shootingstar.Play();
@@ -932,7 +932,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 510, 10, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -944,7 +944,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 510, 20, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -956,7 +956,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush,510, 30, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -968,7 +968,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 510, 40, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -980,7 +980,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 510, 50, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -992,7 +992,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 510, 60, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1004,7 +1004,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 510, 70, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1016,7 +1016,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 510, 80, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1028,7 +1028,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 500, 90, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1040,7 +1040,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 500, 100, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1052,7 +1052,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 500, 110, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1064,7 +1064,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 500, 120, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1076,7 +1076,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 500, 130, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1088,7 +1088,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 500, 140, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1100,7 +1100,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 500, 150, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1112,7 +1112,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 500, 160, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1124,7 +1124,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 500, 170, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1136,7 +1136,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 500, 180, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1148,7 +1148,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 500, 190, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1160,7 +1160,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 490, 200, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1172,7 +1172,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 490, 210, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1184,7 +1184,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 490, 220, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1196,7 +1196,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
             g.FillEllipse(drawBrush, 135, 175, 5, 5);
@@ -1208,7 +1208,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
 
             // 11th star
             Shootingstar1.Play();
@@ -1224,7 +1224,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 305, 10, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1237,7 +1237,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 295, 20, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1250,7 +1250,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 285, 30, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1263,7 +1263,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 275, 40, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1276,7 +1276,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 265, 50, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1289,7 +1289,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 255, 60, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1302,7 +1302,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 245, 70, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1315,7 +1315,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 235, 80, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1328,7 +1328,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 225, 90, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1341,7 +1341,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 215, 100, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1354,7 +1354,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 205, 110, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1367,7 +1367,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 195, 120, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1380,7 +1380,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 185, 130, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1393,7 +1393,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 175, 140, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1406,7 +1406,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 165, 150, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1419,7 +1419,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 155, 160, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1432,7 +1432,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 145, 170, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1445,7 +1445,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 135, 180, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1458,7 +1458,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 125, 190, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1471,7 +1471,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
             g.FillEllipse(drawBrush, 490, 235, 5, 5);
@@ -1484,7 +1484,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
 
             //12th star
             Shootingstar.Play();
@@ -1501,7 +1501,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 500, 10, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1515,7 +1515,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 490, 20, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1529,7 +1529,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 490, 30, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1543,7 +1543,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 480, 40, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1557,7 +1557,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 470, 50, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1571,7 +1571,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 460, 60, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1585,7 +1585,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 450, 70, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1599,7 +1599,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 440, 80, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1613,7 +1613,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 430, 90, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1627,7 +1627,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 420, 100, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1641,7 +1641,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 410, 110, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1655,7 +1655,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 400, 120, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1669,7 +1669,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 390, 130, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1683,7 +1683,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 380, 140, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1697,7 +1697,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 370, 150, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1711,7 +1711,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 360, 160, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1725,7 +1725,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 350, 170, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1739,7 +1739,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 340, 180, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1753,7 +1753,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 330, 190, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1767,7 +1767,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 320, 200, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1781,7 +1781,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 310, 210, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1795,7 +1795,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 300, 220, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1809,7 +1809,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 290, 230, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1823,7 +1823,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
             g.FillEllipse(drawBrush, 115, 205, 5, 5);
@@ -1837,7 +1837,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
 
             //13th star
             Shootingstar.Play();
@@ -1855,7 +1855,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 305, 10, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -1870,7 +1870,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 295, 20, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -1885,7 +1885,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 285, 30, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -1900,7 +1900,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 275, 40, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -1915,7 +1915,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 265, 50, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -1930,7 +1930,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 255, 60, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -1945,7 +1945,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 245, 70, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -1960,7 +1960,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 235, 80, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -1975,7 +1975,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 225, 90, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -1990,7 +1990,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 215, 100, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2005,7 +2005,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 205, 110, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2020,7 +2020,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 195, 120, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2035,7 +2035,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 185, 130, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2050,7 +2050,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 175, 140, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2065,7 +2065,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 165, 150, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2080,7 +2080,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 155, 160, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2095,7 +2095,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 145, 170, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2110,7 +2110,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 135, 180, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2125,7 +2125,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 125, 190, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2140,7 +2140,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 115, 200, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2155,7 +2155,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 105, 210, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2170,7 +2170,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 95, 220, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2185,7 +2185,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 85, 230, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2200,7 +2200,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 75, 240, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2215,7 +2215,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 65, 250, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2230,7 +2230,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
             g.Clear(Color.Black);
             g.FillEllipse(drawBrush, 55, 265, 5, 5);
             g.FillEllipse(drawBrush, 280, 240, 5, 5);
@@ -2245,7 +2245,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush, 265, 80, 5, 5);
             g.FillEllipse(drawBrush, 235, 50, 5, 5);
             g.FillEllipse(drawBrush, 250, 55, 5, 5);
-            Thread.Sleep(200);
+            Thread.Sleep(110);
 
 
             // lines connecting the stars 
@@ -2290,7 +2290,7 @@ namespace Greeting_Card
             g.FillEllipse(drawBrush2, 250, 55, 7, 7);
 
             // words discribing the design
-            g.DrawString("Aquarius", drawFont, drawBrush, 350, 50);
+            g.DrawString("Aquarius", drawFont, drawBrush2, 350, 50);
             g.DrawString("January 20 to February 18", drawFont2, drawBrush, 340, 85);
 
 
