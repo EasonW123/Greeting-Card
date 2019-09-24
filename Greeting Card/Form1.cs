@@ -9,7 +9,11 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Threading;
 using System.Media;
-
+/// <summary>
+/// Eason Wu 
+/// September 24, 2019
+/// Consetellation greeting card -Aquarius- 
+/// </summary>
 namespace Greeting_Card
 {
     public partial class Form1 : Form
